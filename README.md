@@ -30,7 +30,6 @@ The goal of this repository is to:
 * User Defined Functions
 * Arguments & Parameters
 * Return Statements
-* Lambda Functions
 
 ### Data Structures
 
