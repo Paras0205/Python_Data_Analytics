@@ -1,6 +1,0 @@
-#wap to add 2 numbers
-a=2
-b=3
-sum=a+b
-print(sum)
-print(a+b)
