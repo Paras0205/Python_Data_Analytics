@@ -1,4 +1,4 @@
-🐍 # Python Fundamentals
+# Python Fundamentals
 
 Welcome to my Python Fundamentals repository!
 
@@ -6,7 +6,7 @@ This repository documents my journey of learning Python from the ground up. It c
 
 The goal of this repository is to build a strong programming foundation for Data Analytics, Data Science, and Machine Learning.
 
-📚 ## Topics Covered
+## Topics Covered
 
 ### Python Fundamentals
 - Variables and Data Types
@@ -38,7 +38,7 @@ The goal of this repository is to build a strong programming foundation for Data
 - Exception Handling
 - Try, Except, Else, and Finally
 
-🎯 ## Learning Objectives
+## Learning Objectives
 
 This repository focuses on:
 - Understanding Python syntax and fundamentals
@@ -48,7 +48,7 @@ This repository focuses on:
 - Working with files and handling exceptions
 - Building a solid foundation for Data Analytics
 
-📈 ## Skills Gained
+## Skills Gained
 
 By completing this repository, I have developed skills in:
 - Python programming
@@ -71,11 +71,11 @@ By completing this repository, I have developed skills in:
 - Clean and readable code
 - Regular updates as I continue learning
 
-🤝 ## Contributing
+## Contributing
 
 Suggestions and improvements are always welcome. Feel free to fork this repository, open an issue, or submit a pull request.
 
-👨‍💻 ## Author
+## Author
 
 **Paras**  
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
